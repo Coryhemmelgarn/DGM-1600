@@ -27,3 +27,10 @@ Northwest Division
 3. Portland Trailblazers
 4. Denver Nuggets
 5. Minnesota Timberwolves
+
+Pacific Division
+1. Golden State Warriors
+2. LA Clippers
+3. Sacramento Kings
+4. LA Lakers
+5. Phoenix Suns
