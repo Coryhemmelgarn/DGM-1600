@@ -6,3 +6,10 @@ Atlantic Division
 3. New York Knicks
 4. Philadelphia 76ers
 5. Brooklyn Nets
+
+Central Divsion
+1. Cleveland Cavaliers
+2. Milwaukee Bucks
+3. Indiana Pacers
+4. Chicago Bulls
+5. Detroit Pistons
