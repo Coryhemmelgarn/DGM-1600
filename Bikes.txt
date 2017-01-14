@@ -1,3 +1,5 @@
 Road Bikes
 
 git init
+
+Git status
