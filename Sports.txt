@@ -1,1 +1,8 @@
 Current NBA Standings
+
+Atlantic Division
+1.Toronto Raptors
+2. Boston Celtics
+3. New York Knicks
+4. Philadelphia 76ers
+5. Brooklyn Nets
