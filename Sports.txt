@@ -13,3 +13,10 @@ Central Divsion
 3. Indiana Pacers
 4. Chicago Bulls
 5. Detroit Pistons
+
+Southeast Division
+1. Atlanta Hawks
+2. Washington Wizards
+3. Charlotte Hornets
+4. Orlando Magic
+5. Miami Heat
