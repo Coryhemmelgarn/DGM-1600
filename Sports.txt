@@ -20,3 +20,10 @@ Southeast Division
 3. Charlotte Hornets
 4. Orlando Magic
 5. Miami Heat
+
+Northwest Division
+1. Utah Jazz
+2. Oklahoma City Thunder
+3. Portland Trailblazers
+4. Denver Nuggets
+5. Minnesota Timberwolves
