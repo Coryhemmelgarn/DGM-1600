@@ -64,8 +64,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ChangeColor.cs" />
+    <Compile Include="Assets\git.ignore.cs" />
     <Compile Include="Assets\move.cs" />
     <Compile Include="Assets\rotate.cs" />
+    <Compile Include="Assets\syntax.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
