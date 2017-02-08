@@ -27,7 +27,7 @@ public class IfStatements : MonoBehaviour {
             print(false);
         }
 
-        if (myString != "Cat");
+        if (myString != "Cat")
         {
             print(myString);
         }
