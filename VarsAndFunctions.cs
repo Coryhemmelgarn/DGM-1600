@@ -10,6 +10,11 @@ public class VarsAndFunctions : MonoBehaviour
         //it will rotate the wheel.
     }
 
+    void TrashCan (string trash)
+    {
+        print("You put trash in " + " as trash.");
+    }
+
     string WaterFountain()
     {
         return "Water";
